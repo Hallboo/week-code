@@ -1,1 +1,2 @@
-#week-code is coding with in C++ every week.
+Week-code: Write a C++ program weekly. 
+                                 By Herb
