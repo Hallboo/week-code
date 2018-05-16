@@ -1,4 +1,3 @@
-/*Given a string containing only digits '0'-'9', write a function to determine if it's an additive number.*/
 #include<iostream>
 #include<string>
 #include<cstdlib>
