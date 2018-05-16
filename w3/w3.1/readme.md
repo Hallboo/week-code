@@ -2,7 +2,7 @@ The 3th week 3.1
 =============================
 Given a sorted positive integer array nums and an integer n, add/patch elements to the array such that any number in range [1, n] inclusive can be formed by the sum of some elements in the array. Return the minimum number of patches required.
 
-Example 1:
+### Example 1:
 nums = [1, 3], n = 6
 Return 1.
 
@@ -23,5 +23,5 @@ Return 0.
 ### Compiled:
 `g++ zhb_3.1.cc -o zhb_3.1 -std=c++11`
 
-### 说明：
+### Note:
 nums和n需要在程序中修改。
